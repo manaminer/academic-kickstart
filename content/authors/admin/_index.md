@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Muhammed Salama
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,29 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Jr.Data Scientist/Analyst @ Ibdaa real estate
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: A data science Self-learner and former solar-energy mechanical engineer.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- BI Reporting.
+- Machine Learning & Predictive Modeling.
+- Data Cleaning & Feature Engineering.
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Future plan of a Master Degree
+    institution:
+    year: 2021
+  - course: BSc in Mechanical (Solar) Engineering.
+    institution: Portsaid University, EGYPT.
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -44,25 +41,25 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+  link: 'muhammedsalama1995@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: www.linkedin.com/in/muhammed-mamduh-b53144124
+- icon: instagram
+  icon_pack: fab
+  link: https://instagram.com/muhammed_mamdou
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/ManaMiner
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+ - icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-  
+email: "muhammedsalama1995@gmail.com"
+
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
@@ -70,6 +67,12 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hay My name is Muhammed, which goes under code name ManaMiner in case the need to own a signature. Anyways, Nice to see you here! Let me explain a bit more about myself and how I got to where I am now.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I’m a mechanical engineer graduate who’s passionate about data science, statistics and machine learning.
+
+Took my bachelor’s degree from Egypt and currently working in Dubai as Jr.data analyst by day and making simple personal content here by night !
+
+I like to save and document my journey of evolving personal projects and taking them to the next levels.
+
+I have a little artistic personality so my visualizations are made with care !
