@@ -33,6 +33,18 @@ subtitle = ""
   description = "100%"  
 
 [[feature]]
+  icon = "robot"
+  icon_pack = "fas"
+  name = "Machine Learning"
+  description = "85%"
+
+[[feature]]
+  icon = "r-project"
+  icon_pack = "fab"
+  name = "R"
+  description = "40%"
+
+[[feature]]
   icon = "chart-bar"
   icon_pack = "far"
   name = "Power BI"
