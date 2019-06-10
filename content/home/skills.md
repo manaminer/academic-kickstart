@@ -15,21 +15,27 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "fa-python"
+  icon = "python"
   icon_pack = "fab"
   name = "Python"
   description = "90%"
 
 [[feature]]
+  icon = "database"
+  icon_pack = "fas"
+  name = "SQL"
+  description = "90%"
+
+[[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
+  name = "Analytics"
   description = "100%"  
 
 [[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  icon = "chart-bar"
+  icon_pack = "far"
+  name = "Power BI"
+  description = "95%"
 
 +++
