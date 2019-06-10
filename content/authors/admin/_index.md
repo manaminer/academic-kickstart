@@ -13,9 +13,9 @@ superuser: true
 role: Jr.Data Scientist/Analyst @ Ibdaa real estate
 
 # Organizations/Affiliations
-organizations:
-- name:
-  url: ""
+#organizations:
+#- name:
+#  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: A data science Self-learner and former solar-energy mechanical engineer.
@@ -31,7 +31,7 @@ education:
     institution:
     year: 2021
   - course: BSc in Mechanical (Solar) Engineering.
-    institution: Portsaid University, EGYPT.
+    institution: PortSaid University, EGYPT.
     year: 2018
 
 # Social/Academic Networking
